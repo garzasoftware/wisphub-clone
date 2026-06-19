@@ -50,10 +50,10 @@ import Plantillas from './pages/Sistema/Plantillas';
 import AccesoRemoto from './pages/Sistema/AccesoRemoto';
 
 // Pages - Fichas HotSpot
-import FichasHotSpot from './pages/HotSpot/FichasHotSpot';
-import PlanesHotSpot from './pages/HotSpot/PlanesHotSpot';
-import PuntosVenta from './pages/HotSpot/PuntosVenta';
-import CorteCaja from './pages/HotSpot/CorteCaja';
+import FichasHotSpot from './pages/Hotspot/FichasHotSpot';
+import PlanesHotSpot from './pages/Hotspot/PlanesHotSpot';
+import PuntosVenta from './pages/Hotspot/PuntosVenta';
+import CorteCaja from './pages/Hotspot/CorteCaja';
 
 // Pages - Soporte Tecnico
 import ListaTickets from './pages/Soporte/ListaTickets';
@@ -70,7 +70,7 @@ import Proveedores from './pages/Almacen/Proveedores';
 // Pages - Staff & Config
 import Staff from './pages/Staff/Staff';
 import Ajustes from './pages/Ajustes/Ajustes';
-import MiEmpresa from './pages/MiEmpresa/MiEmpresa';
+import MiEmpresa from './pages/Ajustes/MiEmpresa';
 
 // Auth
 import Login from './pages/Auth/Login';
